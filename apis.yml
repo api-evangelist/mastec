@@ -1,6 +1,6 @@
 aid: mastec
 name: MasTec
-type: Profile
+kind: profile
 url: https://raw.githubusercontent.com/api-evangelist/mastec/refs/heads/main/apis.yml
 specificationVersion: '0.19'
 created: '2026-03-21'
