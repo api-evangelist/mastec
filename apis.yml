@@ -18,6 +18,8 @@ tags:
   - Energy
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mas-tec
   - type: Website
     url: https://www.mastec.com
   - type: About
