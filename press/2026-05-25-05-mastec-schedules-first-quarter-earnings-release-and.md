@@ -1,7 +1,9 @@
 ---
 title: MasTec schedules first-quarter earnings release and ...
 url: https://www.sahmcapital.com/news/content/mastec-schedules-first-quarter-earnings-release-and-conference-call-2026-04-17
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MasTec" press release artificial intelligence'
 position: 5
 source: serpapi-google

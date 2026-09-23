@@ -1,7 +1,9 @@
 ---
 title: A Look At MasTec (MTZ) Valuation As AI Data Center And ...
 url: https://simplywall.st/stocks/us/capital-goods/nyse-mtz/mastec/news/a-look-at-mastec-mtz-valuation-as-ai-data-center-and-backlog
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MasTec" press release artificial intelligence'
 position: 2
 source: serpapi-google
